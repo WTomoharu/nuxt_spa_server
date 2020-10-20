@@ -1,0 +1,12 @@
+? Project name: nuxt_spa_server
+? Programming language: JavaScript
+? Package manager: Yarn
+? UI framework: Vuetify.js
+? Nuxt.js modules: Axios
+? Linting tools: ESLint
+? Testing framework: None
+? Rendering mode: Single Page App
+? Deployment target: Server (Node.js hosting)
+? Development tools: jsconfig.json (Recommended for VS Code if you're not using typescript)
+? Continuous integration: None
+? Version control system: Git
